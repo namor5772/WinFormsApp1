@@ -19,7 +19,7 @@ namespace WinFormsApp1
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-
+            this.Close();
         }
     }
 }

@@ -64,6 +64,7 @@
             Name = "SplashForm";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Form2";
+            TopMost = true;
             ResumeLayout(false);
             PerformLayout();
         }
