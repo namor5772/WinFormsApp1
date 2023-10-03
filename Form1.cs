@@ -4,6 +4,9 @@ namespace WinFormsApp1
     {
         public Form1()
         {
+            SplashForm splash = new SplashForm();
+            splash.Show();
+
             InitializeComponent();
         }
     }
